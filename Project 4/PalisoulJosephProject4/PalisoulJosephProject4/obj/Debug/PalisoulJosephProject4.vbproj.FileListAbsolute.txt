@@ -1,0 +1,11 @@
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\bin\Debug\PalisoulJosephProject4.exe.config
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\bin\Debug\PalisoulJosephProject4.exe
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\bin\Debug\PalisoulJosephProject4.pdb
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\bin\Debug\PalisoulJosephProject4.xml
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.vbprojResolveAssemblyReference.cache
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.Form1.resources
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.Resources.resources
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.vbproj.GenerateResource.Cache
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.exe
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.xml
+E:\BACS 287\Project 4\PalisoulJosephProject4\PalisoulJosephProject4\obj\Debug\PalisoulJosephProject4.pdb

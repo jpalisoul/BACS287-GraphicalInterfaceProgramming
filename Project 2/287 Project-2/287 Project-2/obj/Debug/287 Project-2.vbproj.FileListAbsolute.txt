@@ -1,0 +1,12 @@
+C:\Users\jpali\AppData\Local\Temporary Projects\287 Project-2\bin\Debug\287 Project-2.exe.config
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\bin\Debug\287 Project-2.exe.config
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\bin\Debug\287 Project-2.exe
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\bin\Debug\287 Project-2.pdb
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\bin\Debug\287 Project-2.xml
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\287 Project-2.vbprojResolveAssemblyReference.cache
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\_287_Project_2.Form1.resources
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\_287_Project_2.Resources.resources
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\287 Project-2.vbproj.GenerateResource.Cache
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\287 Project-2.exe
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\287 Project-2.xml
+E:\BACS 287\Project 2\287 Project-2\287 Project-2\obj\Debug\287 Project-2.pdb

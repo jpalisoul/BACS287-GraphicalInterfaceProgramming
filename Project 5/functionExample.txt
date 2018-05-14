@@ -1,0 +1,21 @@
+Function Example for project 5 help
+
+
+Create Variable in calculate function first. 
+
+Do Error checking after that
+
+
+dblInitialDeposit = Convert.ToDouble(txtInitialValue.Text)
+dblInterest = Convert.ToDouble(txtInterest.Text)
+dblPeriod = Convert.ToDouble(txtPeriod.Text)
+dblDeposits = Convert.ToDouble(txtDeposit.Text)
+
+If dblInterest >= 1 Then
+	dblInterest = dblInterest / 100
+End If
+
+dblInterest = sblInterest / 12
+dblPeriod = dblPeriod * 12
+
+dblFutureValue = my_FV(dblInterest, dblPeriod, -dblDeposits, dblInitialDeposit)
